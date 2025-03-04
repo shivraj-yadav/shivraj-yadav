@@ -24,20 +24,6 @@ I'm an aspiring **Computer Technology Engineer** with a strong foundation in **A
 
 ---
 
-## 📌 Experience
-### 🔹 **Project Intern @ Big Buddies Foundation, Pune** *(Sept 2024 – Nov 2024)*  
-- Developed an **Ed-Tech Web App** for user profile creation, educational content access, and interactive learning.  
-- Built secure backend APIs and integrated **Google Drive API** for seamless file management.  
-
-### 🔹 **Trainee Engineer @ TechnoWings International IT Solutions** *(July 2023 – Aug 2023)*  
-- Completed **Industrial Training** in **Python, Software Development, and Project Management**.  
-- Gained hands-on experience working with cutting-edge technologies.  
-
-### 🔹 **AI/ML Intern @ Pantech.AI** *(May 2024 – Oct 2024)*  
-- Worked on **Chatbots, Computer Vision, Machine Learning Models (CNN, Regression, Classification), and Deep Learning**.  
-- Built AI-powered solutions using **TensorFlow, Keras, and PyTorch**.  
-
----
 
 ## 📂 Featured Projects
 ### 🔹 **E-Commerce Platform** 🛒 *(MERN Stack, PAYU Payment Gateway)*  
