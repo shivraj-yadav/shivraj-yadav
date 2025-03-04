@@ -37,27 +37,6 @@ I'm an aspiring **Computer Technology Engineer** with a strong foundation in **A
 
 ---
 
-### 📂 Featured Projects
-🔹 **E-Commerce Platform** 🛒 *(MERN Stack, PAYU Payment Gateway)*  
-- Built a farm product marketplace connecting farmers and buyers.
-- Integrated secure online transactions with **real-time product updates**.
-
-🔹 **Personalized Learning Platform** 📚 *(MERN Stack, GEMINI AI API)*  
-- Developed an **AI-powered course generation system** based on test results.
-- Automated personalized course creation for optimized learning.
-
-🔹 **Mauli App for Government Officials** 🚔 *(Android, Java)*  
-- Led a team to develop an app for **managing police forces during large-scale events**.
-- Enhanced operational efficiency by tracking **suspicious activities in real time**.
-
-🔹 **Indoor Navigation System** 📍 *(Coohom + Situm)*  
-- Designed an **Indoor Navigation System** for college campuses.
-- Provided guided navigation for students and faculty via smartphones.
-
-🔹 **SVIT College Website** 🌍 *(HTML, CSS, JavaScript, PHP)*  
-- Created a **responsive and informative website** for college administration and students.
-
----
 
 ### 🏆 Achievements
 🏅 **Winner - Coding Clash @ Pinnacle 2024**  
