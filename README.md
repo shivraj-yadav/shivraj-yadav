@@ -18,7 +18,7 @@ I'm an aspiring **Computer Technology Engineer** with a strong foundation in **A
 🔗 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivraj-yadav-a776aa257/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/shivraj-yadav/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=flat&logo=leetcode)](https://leetcode.com/shivraj-yadav/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=flat&logo=leetcode)](https://leetcode.com/u/shivraj_yadav/)
 
 ---
 
