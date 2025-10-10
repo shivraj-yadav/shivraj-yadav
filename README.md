@@ -22,20 +22,19 @@
 <td width="60%">
 
 ```yaml
-name: Shivraj Yadav
-located_in: Maharashtra, India
-current_job: Computer Engineering Student
-education: 
+Name: Shivraj Yadav
+Located_in: Maharashtra, India
+Education: 
   - "B.Tech Computer Engineering (2024-2027)"
   - "CGPA: 8.45/10"
   - "Diploma IT (92.81%)"
-company: Government College of Engineering, Jalgaon
+College: Government College of Engineering, Jalgaon
 
-fields_of_interests:
+Fields_of_interests:
   - "Full Stack Development"
   - "Problem Solving"
   
-technical_background:
+Technical_Background:
   - "MERN Stack Developer"
   - "3+ Production Projects"
   - "300+ LeetCode Problems"
