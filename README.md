@@ -37,7 +37,7 @@ Fields_of_interests:
 Technical_Background:
   - "MERN Stack Developer"
   - "3+ Production Projects"
-  - "300+ LeetCode Problems"
+  - "350+ LeetCode Problems"
   
 
 ```
