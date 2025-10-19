@@ -142,7 +142,7 @@ Technical_Background:
   <img src="https://img.shields.io/badge/LeetCode-Solve_together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-### 💬 **Let's Collaborate!**
+
 *I'm always excited to work on innovative projects, especially in **MERN Stack**, and **Open Source**.*  
 *Feel free to reach out for collaborations, internships, or just a tech chat!* ☕
 
