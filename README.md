@@ -126,7 +126,7 @@ Technical_Background:
 
 <div align="center">
 
-### 📬 **Get In Touch**
+
 
 <a href="mailto:shivrajyadav320@gmail.com">
   <img src="https://img.shields.io/badge/Email-shivrajyadav320@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
