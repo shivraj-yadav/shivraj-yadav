@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivraj%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-<!-- Animated typing header -->
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=100&color=58A6FF&vCenter=true&multiline=true&width=600&height=110&lines=Hi+there!+I am+Shivraj;Computer+Engineering+Student;MERN+Stack+Developer;" alt="Typing SVG" />
-  </a>
-</div>
-
 
 ---
 
