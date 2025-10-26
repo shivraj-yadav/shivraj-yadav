@@ -30,7 +30,6 @@ Technical_Background:
   - "3+ Production Projects"
   - "350+ LeetCode Problems"
   
-
 ```
 
 </td>
