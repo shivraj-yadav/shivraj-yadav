@@ -13,7 +13,7 @@
 <td width="60%">
 
 ```yaml
-Name: Shivraj Yadav.
+Name: Shivraj Yadav .
 Located_in: Maharashtra, India
 Education: 
   - "B.Tech Computer Engineering (2024-2027)"
