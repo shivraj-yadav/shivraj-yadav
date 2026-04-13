@@ -135,32 +135,7 @@ Platform for reporting civic issues like potholes and water leakage, with automa
 
 </div>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shivraj-yadav-a776aa257/">
-  <img src="https://img.shields.io/badge/LinkedIn-Shivraj_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:shivrajyadav320@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-shivrajyadav320@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/shivraj_yadav/">
-  <img src="https://img.shields.io/badge/LeetCode-shivraj__yadav-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-*Open to internships, collaborations, and hackathons — especially in **MERN Stack** and **Open Source**.*  
-*Drop a message, let's build something together!* ☕
-
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
