@@ -37,7 +37,7 @@ Learning  : System Design · TypeScript
 - Built 3+ production-grade MERN Stack applications with real-world use cases
 - Solved 450+ problems on LeetCode — strong in DSA and problem solving
 - Diploma in IT with 92.81% — solid technical foundation
-- Open to internships, collaborations, and open source contributions
+- Open to internship, collaborations, and open source contributions
 
 ---
 
