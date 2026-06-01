@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Shivraj%20Yadav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Real-Time%20Systems%20%7C%20Problem%20Solver&descSize=17&descAlignY=58&descColor=c3bef7" width="100%"/>
+
 </div>
 
 <div align="center">
