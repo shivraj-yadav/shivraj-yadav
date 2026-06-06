@@ -29,7 +29,7 @@ Name       : Shivraj Yadav
 Role       : Full-Stack Developer (MERN) · AI Systems · Real-Time Apps
 Education  : B.Tech Computer Engineering — GCE Jalgaon (CGPA: 8.45 / 10)
 Location   : Maharashtra, India
-Currently  : Learning System Design · TypeScript · Cloud Architecture
+Currently  : Learning System Design  · Cloud Architecture
 Open To    : SWE Internships · Open Source · Collaborations
 ```
 
@@ -51,6 +51,7 @@ Open To    : SWE Internships · Open Source · Collaborations
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
