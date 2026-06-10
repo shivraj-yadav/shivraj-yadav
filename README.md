@@ -27,7 +27,7 @@
 ```yaml
 Name       : Shivraj Yadav
 Role       : Full-Stack Developer (MERN) · AI Systems · Real-Time Apps
-Education  : B.Tech Computer Engineering — GCE Jalgaon (CGPA: 8.45 / 10)
+Education  : B.Tech Computer Engineering — GCE Jalgaon (CGPA: 8.55 / 10)
 Location   : Maharashtra, India
 Currently  : Learning System Design  · Cloud Architecture
 Open To    : SWE Internships · Open Source · Collaborations
