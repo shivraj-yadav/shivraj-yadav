@@ -172,6 +172,7 @@ Full-stack job platform with authentication, dashboards & notifications.
 
 | | Achievement |
 |---|---|
+| **1st** | Winner of 5+ inter-college coding competitions. |
 | **1st** | National-level hackathon winner — 5+ competitions |
 | **2nd** | National-Level Project Competition finalist |
 | **Top** | DIPEX 2024 Semifinalist among 500+ competing teams |
