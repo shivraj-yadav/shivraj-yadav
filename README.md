@@ -38,7 +38,6 @@ Open To    : SWE Internships · Open Source · Collaborations
 ## About Me
 
 - Building production-grade **full-stack web applications** using React.js, Node.js, MongoDB & Express.js
-- Developed an **AI-powered traffic management system** using YOLOv8 with 80%+ real-time detection accuracy
 - Solved **450+ problems on LeetCode**, **141+ on Codeforces**, and **110+ on GeeksforGeeks**
 - **National Hackathon Winner** — 1st & 2nd place finishes · DIPEX 2024 Semifinalist (500+ teams)
 - Diploma in IT with **92.81%** — strong CS fundamentals across DSA, OOP, DBMS, OS & Networks
