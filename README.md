@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/u/shivraj_yadav/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>&nbsp;
-  <a href="https://codeforces.com/profile/shivraj-yadav">
+  <a href="https://codeforces.com/profile/shivraj-yadav
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=shivraj-yadav&style=flat-square&color=7c3aed&label=Profile+Views" />
