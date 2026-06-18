@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/u/shivraj_yadav/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>&nbsp;
-  <a href="https://codeforces.com/profile/shivraj-yadav
+  <a href="https://codeforces.com/profile/shivraj-yadav">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=shivraj-yadav&style=flat-square&color=7c3aed&label=Profile+Views" />
@@ -29,7 +29,7 @@ Name       : Shivraj Yadav
 Role       : Full-Stack Developer (MERN) · AI Systems · Real-Time Apps
 Education  : B.Tech Computer Engineering — GCE Jalgaon (CGPA: 8.55 / 10)
 Location   : Maharashtra, India
-Currently  : Learning System Design  
+Currently  : Learning System Design
 Open To    : SWE Internships · Open Source · Collaborations
 ```
 
@@ -37,11 +37,11 @@ Open To    : SWE Internships · Open Source · Collaborations
 
 ## About Me
 
-- Building production-grade **full-stack web applications** using React.js, Node.js, MongoDB & Express.js
-- Solved **450+ problems on LeetCode**, **141+ on Codeforces**, and **110+ on GeeksforGeeks**
-- **National Hackathon Winner** — 1st & 2nd place finishes · DIPEX 2024 Semifinalist (500+ teams)
-- Diploma in IT with **92.81%** — strong CS fundamentals across DSA, OOP, DBMS, OS & Networks
-
+- B.Tech Computer Engineering student at GCE Jalgaon (CGPA: 8.55) — previously scored 92.81% in Diploma (IT)
+- Strong CS fundamentals across DSA, OOP, System Design, DBMS, OS, and Computer Networks
+- Experience with Agile workflows, Git-based peer code reviews, and debugging in sprint cycles
+- Comfortable working across the full stack — from REST API design to responsive UI development
+- Exploring system design patterns and scalable backend architecture
 ---
 
 ## Tech Stack
@@ -107,11 +107,12 @@ Open To    : SWE Internships · Open Source · Collaborations
 <td width="50%" valign="top">
 
 ### AI Traffic Management System
-Real-time vehicle detection & traffic signal control using computer vision.
 
-- Trained YOLOv8 on **5,000+ labeled images** — **80%+ accuracy**
-- Live dashboard via **React.js + Socket.IO** across concurrent video feeds
-- Automated signal control reducing need for manual traffic monitoring
+Real-time vehicle detection & automated traffic signal control using computer vision.
+
+- Trained YOLOv8 on **5,000+ labeled images** across 4 vehicle classes — **80%+ accuracy**
+- Live dashboard via **React.js + Socket.IO** streaming across concurrent video feeds
+- Automated signal control eliminating the need for manual traffic monitoring
 
 **Stack:** `Python` `YOLOv8` `OpenCV` `React.js` `Node.js` `Socket.IO`
 
@@ -121,10 +122,11 @@ Real-time vehicle detection & traffic signal control using computer vision.
 <td width="50%" valign="top">
 
 ### Collaborative Interview Platform
-Full-stack real-time technical interview platform with live collaboration.
 
-- Monaco Editor + **Stream Video SDK** for live code & video sessions
-- **5 RESTful API modules** with Clerk auth & Inngest async jobs
+Full-stack real-time technical interview platform with live code and video collaboration.
+
+- Monaco Editor + **Stream Video SDK** for synchronized live coding and video sessions
+- **5 RESTful API modules** with Clerk auth, Inngest async jobs & React Query
 - Role-based access for **2 user types** across **3 difficulty levels**
 
 **Stack:** `React.js` `Node.js` `MongoDB` `Stream SDK` `Monaco` `Clerk`
@@ -136,12 +138,13 @@ Full-stack real-time technical interview platform with live collaboration.
 <tr>
 <td width="50%" valign="top">
 
-### Civic Issue Reporting System
-Geo-tagged complaint platform with automated worker assignment.
+### Smart Civic Issue Management System
+
+Geo-tagged complaint platform with automated worker assignment and lifecycle tracking.
 
 - **4-tier RBAC** (citizen · worker · supervisor · admin) with JWT auth
-- GPS capture + **Leaflet.js** auto-routes issues to nearest worker (5km)
-- 5-stage issue lifecycle with Cloudinary proof uploads & live notifications
+- GPS capture + **Leaflet.js** auto-routes issues to nearest available worker within 5km
+- 5-stage issue lifecycle with Cloudinary proof uploads & live status notifications
 
 **Stack:** `React.js` `Node.js` `MongoDB` `JWT` `Leaflet.js` `Cloudinary`
 
@@ -151,9 +154,10 @@ Geo-tagged complaint platform with automated worker assignment.
 <td width="50%" valign="top">
 
 ### Job Portal
-Full-stack job platform with authentication, dashboards & notifications.
 
-- Search, apply, and post jobs with role-based dashboards
+Full-stack job platform with role-based dashboards, authentication, and notifications.
+
+- Search, apply, and post jobs with dedicated recruiter and candidate dashboards
 - JWT-secured auth with real-time notifications
 - Clean, responsive UI built with React.js
 
@@ -169,27 +173,25 @@ Full-stack job platform with authentication, dashboards & notifications.
 
 ## Achievements
 
-| | Achievement |
+| Achievement | Detail |
 |---|---|
-| **1st** | Winner of 5+ inter-college coding competitions. |
-| **1st** | National-level hackathon winner — 5+ competitions |
-| **2nd** | National-Level Project Competition finalist |
-| **Top** | DIPEX 2024 Semifinalist among 500+ competing teams |
-| **450+** | Problems solved on LeetCode |
-| **141+** | Problems solved on Codeforces |
-| **110+** | Problems solved on GeeksforGeeks |
+| **National Hackathon Champion** | 1st place in 5+ national-level hackathons — built full-stack systems under 24-hour constraints |
+| **National Project Competition** | 2nd place at a national-level project competition |
+| **DIPEX 2024 Semifinalist** | Selected among top teams from 500+ competing entries |
+| **Inter-College Coding** | 1st place in 5+ inter-college coding competitions |
+| **LeetCode** | 450+ problems solved — strong DSA and algorithmic problem-solving |
+| **Codeforces** | 141+ problems solved |
+| **GeeksforGeeks** | 110+ problems solved |
 
 ---
 
-## Competitive Programming
+## Problem Solving
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/shivraj_yadav?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=16" width="60%"/>
 </div>
 
 ---
-
-
 
 <div align="center">
   <i>Open to SWE internships, collaborations, and open source contributions.</i>
