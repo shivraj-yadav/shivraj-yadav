@@ -179,7 +179,7 @@ Full-stack job platform with role-based dashboards, authentication, and notifica
 | **National Project Competition** | 2nd place at a national-level project competition |
 | **DIPEX 2024 Semifinalist** | Selected among top teams from 500+ competing entries |
 | **Inter-College Coding** | 1st place in 5+ inter-college coding competitions |
-| **LeetCode** | 450+ problems solved — strong DSA and algorithmic problem-solving |
+| **LeetCode** | 460+ problems solved — strong DSA and algorithmic problem-solving |
 | **Codeforces** | 141+ problems solved |
 | **GeeksforGeeks** | 110+ problems solved |
 
