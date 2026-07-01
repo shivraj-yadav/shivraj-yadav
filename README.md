@@ -22,7 +22,7 @@
 
 ---
 
-## `$ who am i`
+## `$ whoami`
 
 ```yaml
 Name       : Shivraj Yadav
