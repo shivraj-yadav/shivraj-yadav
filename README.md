@@ -38,8 +38,8 @@ Open To    : SWE Internships · Open Source · Collaborations
 ## About Me
 
 - B.Tech Computer Engineering student at GCE Jalgaon (CGPA: 8.55) — previously scored 92.81% in Diploma (IT)
+- Currently working as a Full Stack Developer Intern at Nexa Solutions, building CRM features and REST APIs.
 - Strong CS fundamentals across DSA, OOP, System Design, DBMS, OS, and Computer Networks
-- Experience with Agile workflows, Git-based peer code reviews, and debugging in sprint cycles
 - Comfortable working across the full stack — from REST API design to responsive UI development
 - Exploring system design patterns and scalable backend architecture
 ---
