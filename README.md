@@ -1,5 +1,8 @@
-<div align="center">
 
+<div align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Shivraj+Yadav;Full-Stack+MERN+Developer;Building+Real-Time+%26+Scalable+Apps" alt="Typing SVG" />
+</div>
 </div>
 
 <div align="center">
